@@ -7,6 +7,10 @@
 - React JS
 - Tailwind CSS
 
+## <b>Screenshot</b>
+
+![My Image](./src/assets/screenshot.png)
+
 ## <b>Contact</b>
 
 Panchana Madara: [@LinkedIn](www.linkedin.com/in/panchana-madara/) <br>
